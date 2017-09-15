@@ -5,7 +5,6 @@ function basicTeenager(age) {
   }
   else
   {
-    return false;
   }
 }
 
