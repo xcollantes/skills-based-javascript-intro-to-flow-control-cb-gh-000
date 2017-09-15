@@ -3,6 +3,10 @@ function basicTeenager(age) {
   {
     return true;
   }
+  else 
+  {
+    return false;
+  }
 }
 
 function teenager(age) {
